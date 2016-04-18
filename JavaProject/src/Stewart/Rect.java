@@ -1,8 +1,9 @@
 package Stewart;
-//Assignment #: 7
+
+
 //Name:Stewart Johnson
-//StudentID: 1206027923
-//Lecture: TTH 3-4:15
+//
+//
 //Description: Rect class creates the rect
 //method and the draw method to be used to draw rectangles on canvas
 

@@ -1,11 +1,11 @@
 package Stewart;
-// Assignment #: 7
-//         Name:Stewart Johnson
-//    StudentID: 1206027923
-//      Lecture: TTH 3-4:15
-//  Description: The whole panel creates components for the whole panel
-//  of this applet. It also contains CanvasPanel, ButtonListener, ColorListener,
-//  and PointListner classes.
+
+//Name:Stewart Johnson
+// 
+//  
+// Description: The whole panel creates components for the whole panel
+// of this applet. It also contains CanvasPanel, ButtonListener, ColorListener,
+// and PointListner classes.
 
 import java.awt.*;
 
